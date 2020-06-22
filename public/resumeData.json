@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Cihat",
+    "occupation": "(Your Occupation Here)",
+    "description": "Software Developer with a passion for creativity and utilizing technology to problem solve for businesses. Contact:cihataldanmaz@gmail.com",
+    "image": "profilepic.jpg",
+    "bio": "With experience in JavaScript, React, NodeJS, Ruby on Rails and a background in Communication and Marketing, I would love to help design efficient code for business products.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "cihataldanmaz@gmail.com",
+    "phone": "325-260-1455",
+    "address": {
+      "street": "United States of America"
+    },
+
+    "resumedownload": "https://drive.google.com/file/d/1hb0IfXCMNnFbhpObIIGe3PIe0E69kLF7/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/cihadald/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/cihataldanmaz",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/cihad.ald",
+        "className": "fa fa-facebook"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Flatiron School",
+        "degree": "Full Stack Software Engineer Program",
+        "graduated": "Nov 2019"
+      },
+      {
+        "school": "Anadolu University",
+        "degree": "Bachelor",
+        "graduated": "Jun 2017"
+      }
+    ],
+    "work": [
+      {
+        "company": "AUniversity TGM",
+        "title": "Copywriter "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJS/ExpressJS",
+        "level": "80%"
+      },
+      {
+        "name": "RubyOnRails",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Filter News",
+        "category": "A newsapp for filtering news from mainstream media",
+        "image": "filternews.jpg",
+        "url": "https://youtu.be/IcdZvkGFsPI"
+      },
+      {
+        "title": "Covid19 Chart Tracker",
+        "category": "A tracker app for tracking corona virus",
+        "image": "covid19.jpg",
+        "url": "https://coronareact.netlify.app/"
+      },
+      {
+        "title": "Gala App",
+        "category": "A soccer app for creating Galatasaray’s(Soccer Team) fans favorite squats for next match",
+        "image": "galaapp.jpg",
+        "url": "https://www.youtube.com/watch?v=XfXVUnORCAE&feature=youtu.be"
+      },
+      {
+        "title": "Snake Game",
+        "category": "A game for playing nostalgic snake game",
+        "image": "snakegame.jpg",
+        "url": "https://snakegame-react.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
